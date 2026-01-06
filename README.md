@@ -18,7 +18,8 @@ In these tasks you can find various algorithms, such as:
 - DFS
 - BFS
 - Dynamic programming
-- Binary search  
+- Binary search
+- Recursion
 - and others
 
 ## Notes
